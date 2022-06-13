@@ -1,0 +1,4 @@
+[safe]
+	directory = /etc/ansible
+[user]
+	name = hoermannTom
